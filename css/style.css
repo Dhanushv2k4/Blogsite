@@ -149,7 +149,7 @@
   color: white;
 }
 body{
-  background-image: url(/ResponsiveBlogTemplate/img/backgroundgif.gif);
+  background-image: url(img/backgroundgif.gif);
   background-repeat:repeat;
   background-size: cover;
   background-position: center;
